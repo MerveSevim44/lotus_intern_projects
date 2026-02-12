@@ -42,6 +42,8 @@ pip install -r requirements.txt
 ---
 
 ## 💻 Kullanım
+#### NOT :
+##### Öncelikle sequences.zip dosyasından sequences.pkl dosyasını çıkarın 
 
 ### 1. Yeni Veri Seti Ekleme
 
@@ -242,3 +244,4 @@ Bu README temel kullanım bilgilerini içermektedir. Detaylı bilgi için:
 **Tüm kaynaklar için:** report.md - Kaynaklar bölümü
 
 **Not:** Bu proje, üretken yapay zeka sistemlerinin temel çalışma mantığını anlamak ve uçtan uca bir dil modeli geliştirme sürecini deneyimlemek amacıyla hazırlanmıştır.
+
