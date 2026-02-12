@@ -1,0 +1,6 @@
+{
+  "vocab_size": 45,
+  "num_sequences": 898586,
+  "sequence_length": 40,
+  "total_chars": 36842026
+}
